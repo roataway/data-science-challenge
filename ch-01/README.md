@@ -13,3 +13,5 @@ Ai la îndemână telemetria troleibuzelor din Chișinău pe o anumită perioad�
 - avem suficiente dovezi pentru a conclude că un șofer specific încalcă des regulamentul rutier?
 
 La care alte întrebări mai poți răspunde, având aceste date?
+
+Explică cum ai găsit răspunsurile. Opțional, împletește o istorie într-un [Jupyter Notebook](https://jupyter.org/), ca alții să poată replica pașii tăi.
